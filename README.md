@@ -70,4 +70,4 @@ pytest
 ![Population Chart](data/population_chart.png)
 
 ### Average Age by City
-![Average Age Chart](data/age_chart.png)
+![Average Age Chart](data/average_age_chart.png)
